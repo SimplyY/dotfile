@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "for (let i = 0; i < array.length; i++) {\n \n}",
+    "uid" : "B6BEB23B-D9AA-4F21-9BB4-572FC8B068C0",
+    "name" : "for",
+    "keyword" : "for"
+  }
+}

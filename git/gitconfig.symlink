@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	co = checkout
+	cma = commit --amend
+	cm = commit
+[user]
+	name = fengshi.yw
+	email = fengshi.yw@alibaba-inc.com
+[core]
+	excludesfile = ~/.gitignore
