@@ -1,8 +1,5 @@
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@jp2.monocloud.space:443/?#JP2
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@jp2.monocloud.space:443/?#JP2
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@us1.monocloud.space:443/?#US1
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@eu1.monocloud.space:443/?#EU1
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@jp1.monocloud.space:443/?#JP1
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@jp1.monocloud.space:443/?#JP1
+ss://cmM0LW1kNTowalZJaERrSTdPTEY=@cn1.darkcloudpiece.com:9371/?#
+ss://cmM0LW1kNTowalZJaERrSTdPTEY=@ext.darkcloudpiece.com:13371/?#
+ss://cmM0LW1kNTowalZJaERrSTdPTEY=@ext2.darkcloudpiece.com:5371/?#
+ss://bm9uZTpKMlQyTTZzY0xKOHA=@tw1.darkcloudpiece.com:587/?#TW1
 ss://bm9uZTo3VDAwQVZlY1drNnY=@jp3.monocloud.space:587/?#JP3
-ss://cmM0LW1kNToya0x4R1JBcmNPS2g=@eu1.monocloud.space:443/?#EU1
