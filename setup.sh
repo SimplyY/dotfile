@@ -14,7 +14,4 @@ source $DOTFILES/scripts/brew.sh
 chsh -s /usr/local/bin/fish
 echo /usr/local/bin/fish | sudo tee -a /etc/shells
 
-source $DOTFILES/scripts/gem.sh
 source $DOTFILES/scripts/npm.sh
-source $DOTFILES/scripts/fonts.sh
-source $DOTFILES/scripts/macos.sh
