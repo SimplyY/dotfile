@@ -5,8 +5,8 @@ My vim/neovim, fish, git, and tmux configuration files
 
 ## Install
 ```
-$ git clone https://github.com/ahonn/dotfiles.git ~/.dotfiles
-$ cd ~/.dotfiles
+$ git clone https://github.com/ahonn/dotfiles.git ~/dotfile
+$ cd ~/dotfile
 $ ./setup.sh
 ```
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-DOTFILES=$HOME/.dotfiles
-BACKUP_DIR=$HOME/.dotfiles_backup
+DOTFILES=$HOME/dotfile
+BACKUP_DIR=$HOME/dotfile_backup
 
 echo "Creating backup directory at $BACKUP_DIR"
 mkdir -p $BACKUP_DIR
