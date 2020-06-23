@@ -46,8 +46,6 @@ done
 echo -e "\nInstalling homebrew casks..."
 echo "=============================="
 casks=(
-  shadowsocksx-ng
-  upic
   Itsycal
   Alfred
   AppCleaner
@@ -59,7 +57,6 @@ casks=(
   HandShaker
   google-chrome
   iTerm2
-  ShadowsocksX
   Spectacle
   Steam
   Visual-Studio-Code
